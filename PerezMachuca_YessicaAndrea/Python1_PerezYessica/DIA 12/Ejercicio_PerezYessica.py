@@ -67,7 +67,7 @@ while booleano == True:
       nuevoid = input("ingresa el id del nuevo evento")
       nuevotype =input("ingresa el nuevo type del evento")
       nuevoactor= input("ingresa el nuevo actor del evento")
-      nuevorepo = input("ingresa el nuevo repo del evento")
+      nuevorepo = input("ingresa el nuevo repo del evento.")
   
          
   break
